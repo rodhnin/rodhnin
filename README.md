@@ -10,7 +10,7 @@
 
 Crafting security tools, intelligent agents, and scalable systems with precision and passion.
 
-[🌐 Portfolio](https://rodhnin.com) • [📧 Email](dhavidjimenez@outlook.com) • [𝕏 X](https://x.com/rodhnin)
+[🌐 Portfolio](https://rodhnin.com) • [📧 Email](mailto:dhavidjimenez@outlook.com) • [𝕏 X](https://x.com/rodhnin)
 
 </div>
 
@@ -113,10 +113,8 @@ My projects demonstrate expertise in **security automation**, **AI-powered analy
 Advanced vulnerability detection with 4 specialized methods and AI-powered remediation guides.
 
 -   **4 Detection Methods**: Error-based, Boolean-blind, Time-based, UNION-based
--   **638+ Validated Test Cases** | **100% Precision**
--   **Claude-Powered Analysis** for hardening recommendations
--   **Beautiful Reports**: HTML + JSON with evidence
--   **Status**: Production Ready
+-   **AI-Powered Hardening Guides** (technical + executive modes)
+-   **Status**: _Version 0.1.0_
 
 [👉 Explore Pythia on GitHub](https://github.com/rodhnin/pythia-sql-clairvoyance)
 
@@ -125,9 +123,8 @@ Advanced vulnerability detection with 4 specialized methods and AI-powered remed
 Comprehensive configuration auditor for Apache, Nginx, and IIS with intelligent hardening guidance.
 
 -   **6 Security Modules**: Headers, TLS/SSL, HTTP Methods, Directory Listing, Sensitive Files, Version Disclosure
--   **55+ Validation Tests** | **Zero False Positives**
--   **AI-Powered Remediation**: GPT-4 & Claude integration
--   **Status**: Production Ready
+-   **AI-Powered Hardening Guides** (technical + executive modes)
+-   **Status**: _Version 0.1.0_
 
 [👉 Discover Hephaestus on GitHub](https://github.com/rodhnin/hephaestus-server-forger)
 
@@ -136,9 +133,8 @@ Comprehensive configuration auditor for Apache, Nginx, and IIS with intelligent 
 Ethical WordPress vulnerability scanner with consent-based testing and AI analysis.
 
 -   **WordPress-Specific Checks**: Plugins, themes, sensitive files, user enumeration
--   **Real-Time Progress** with concurrent scanning
 -   **AI-Powered Hardening Guides** (technical + executive modes)
--   **Status**: Active Development
+-   **Status**: _Version 0.1.0_
 
 [👉 Check out Argus on GitHub](https://github.com/rodhnin/argus-wp-watcher)
 
@@ -148,9 +144,8 @@ Multi-threaded network and domain security auditor with Active Directory analysi
 
 -   **SMB, RDP, LDAP, Kerberos, DNS** security assessments
 -   **Windows & Linux** system hardening checks
--   **AI-Generated Remediation** guides
--   **Multi-Platform**: Windows, Linux, macOS
--   **Status**: Production Ready
+-   **AI-Powered Hardening Guides** (technical + executive modes)
+-   **Status**: _Version 0.1.0_
 
 [👉 Explore Asterion on GitHub](https://github.com/rodhnin/asterion-network-minotaur)
 
@@ -159,12 +154,9 @@ Multi-threaded network and domain security auditor with Active Directory analysi
 Full-stack AI-powered portfolio with intelligent consulting chatbot and lead generation.
 
 -   **LangChain Agent** with 6 specialized tools
--   **Real-Time Streaming**: SSE for live responses
--   **22/22 Tests Passing** | **Comprehensive Coverage**
--   **3D Particle System**: ~35k particles with Three.js
 -   **Session Management**: Redis + PostgreSQL
 -   **Frontend**: Next.js | **Backend**: FastAPI
--   **Status**: Production Ready
+-   **Status**: _Version 0.1.0_
 
 [👉 Try the AI Agent Live](https://rodhnin.com)
 
