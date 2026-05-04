@@ -28,14 +28,12 @@
 
 My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain**:
 
-- **[Argos Suite](https://github.com/rodhnin)** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
-- **[CERBERUS](https://cerberus.rodhnin.com)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
+- **Argos Suite** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
+- **[CERBERUS](https://t.me/cerberuscrypt_bot)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
 - **[Acadelia](https://github.com/rodhnin/acadelia)** — Educational platform powered by 40+ AI agents and RAG with pgvector
 - Active bug bounty hunter — HackerOne · Intigriti · YesWeHack
 
 `Python` `FastAPI` `LangChain` `Node.js` `TypeScript` `Next.js` `Docker` `TON` `Solana` `EVM`
-
-I don't wait for permission to build. Roll the dice.
 
 ---
 
@@ -182,7 +180,7 @@ A collection of four production-grade open-source security scanners, each with *
 <tr>
 <td width="50%">
 
-#### 🔮 Pythia — SQL Injection Scanner
+**🔮 Pythia — SQL Injection Scanner**
 
 Advanced SQLi detection with **5 vectors** including second-order injection and ORDER BY blind injection — the most overlooked vulnerability class.
 
@@ -196,7 +194,7 @@ Advanced SQLi detection with **5 vectors** including second-order injection and 
 </td>
 <td width="50%">
 
-#### 👁️ Argus — WordPress Security Scanner
+**👁️ Argus — WordPress Security Scanner**
 
 Ethical WordPress vulnerability scanner with real-time CVE/CWE lookup for plugins, themes, and core versions.
 
@@ -212,7 +210,7 @@ Ethical WordPress vulnerability scanner with real-time CVE/CWE lookup for plugin
 <tr>
 <td width="50%">
 
-#### 🌐 Asterion — Network & AD Auditor
+**🌐 Asterion — Network & AD Auditor**
 
 Multi-target network security auditor with **remote Windows auditing via WinRM** — pure HTTP/NTLMv2, no external dependencies.
 
@@ -226,7 +224,7 @@ Multi-target network security auditor with **remote Windows auditing via WinRM**
 </td>
 <td width="50%">
 
-#### ⚒️ Hephaestus — Server Config Auditor
+**⚒️ Hephaestus — Server Config Auditor**
 
 Apache, Nginx, and IIS security auditor with **13 parallel scan phases** and real-time NVD CVE correlation.
 
@@ -305,7 +303,5 @@ Open to collaborations on **security research**, **Web3 projects**, **AI systems
 <div align="center">
 
 **Built with precision, passion, and persistence.**
-
-_Rolling the dice despite the odds._
 
 </div>
