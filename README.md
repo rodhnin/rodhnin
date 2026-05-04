@@ -11,6 +11,14 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodhnin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhavidjimenez@outlook.com)
 
+<br/>
+
+[![About](https://img.shields.io/badge/About-21262d?style=for-the-badge)](#-about)
+[![Stack](https://img.shields.io/badge/Stack-21262d?style=for-the-badge)](#️-stack)
+[![Projects](https://img.shields.io/badge/Projects-21262d?style=for-the-badge)](#-featured-projects)
+[![Currently](https://img.shields.io/badge/Currently-21262d?style=for-the-badge)](#-currently)
+[![Connect](https://img.shields.io/badge/Connect-21262d?style=for-the-badge)](#-connect)
+
 </div>
 
 ---
@@ -137,9 +145,9 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 
 ## 🚀 Featured Projects
 
-### 🐺 CERBERUS — Crypto Guard Bot
+**🐺 CERBERUS — Crypto Guard Bot** &nbsp;·&nbsp; `Live in production`
 
-> **Live in production** · Web3 Security SaaS
+> Web3 Security SaaS
 
 Real-time rug pull and smart contract security scanner for **TON, Solana, and 10 EVM chains**. Monitors wallets, liquidity drops, and honeypot traps — all via Telegram.
 
@@ -172,7 +180,7 @@ Real-time rug pull and smart contract security scanner for **TON, Solana, and 10
 
 ---
 
-### 🔐 Argos Security Suite — v0.2.0
+**🔐 Argos Security Suite — v0.2.0**
 
 A collection of four production-grade open-source security scanners, each with **real-time CVE correlation**, **OWASP Top 10 2021 mapping**, **scan diff reports**, and **multi-LLM AI analysis** with cost tracking and tool-calling agents.
 
@@ -241,7 +249,7 @@ Apache, Nginx, and IIS security auditor with **13 parallel scan phases** and rea
 
 ---
 
-### 📚 Acadelia — AI-Powered Learning Platform
+**📚 Acadelia — AI-Powered Learning Platform**
 
 Ambitious educational platform with RAG, multi-agent systems, and multimodal processing.
 
