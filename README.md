@@ -37,7 +37,7 @@
 My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain**:
 
 - **Argos Suite** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
-- **[CERBERUS](https://t.me/cerberuscrypt_bot)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
+- **[CERBERUS](https://cerberus.rodhnin.com)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
 - **[Acadelia](https://github.com/rodhnin/acadelia)** — Educational platform powered by 40+ AI agents and RAG with pgvector
 - Active bug bounty hunter — HackerOne · Intigriti · YesWeHack
 
@@ -176,6 +176,7 @@ Real-time rug pull and smart contract security scanner for **TON, Solana, and 10
 </tr>
 </table>
 
+[![Website](https://img.shields.io/badge/Website-cerberus.rodhnin.com-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cerberus.rodhnin.com)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@cerberuscrypt__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cerberuscrypt_bot)
 
 ---
@@ -301,7 +302,7 @@ Focus areas: Web app vulnerabilities, Web3 smart contracts, API security
 | 🌐 **Portfolio** | [rodhnin.com](https://rodhnin.com) — AI agent live               |
 | 💼 **LinkedIn**  | [linkedin.com/in/rodhnin](https://linkedin.com/in/rodhnin)       |
 | 🐙 **GitHub**    | [@rodhnin](https://github.com/rodhnin)                           |
-| 🐺 **CERBERUS**  | [@cerberuscrypt_bot](https://t.me/cerberuscrypt_bot) on Telegram |
+| 🐺 **CERBERUS**  | [cerberus.rodhnin.com](https://cerberus.rodhnin.com)             |
 | 𝕏 **X**          | [@rodhnin](https://x.com/rodhnin)                                |
 
 Open to collaborations on **security research**, **Web3 projects**, **AI systems**, and technical challenges worth solving.
