@@ -38,7 +38,7 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 
 - **Argos Suite** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
 - **[CERBERUS](https://cerberus.rodhnin.com)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
-- **[Acadelia](https://github.com/rodhnin/acadelia)** — Educational platform powered by 40+ AI agents and RAG with pgvector
+- **[Acadelia](https://github.com/rodhnin/acadelia)** · **[Demo ↗](https://acadelia.rodhnin.com)** — Educational platform powered by 40+ AI agents and RAG with pgvector
 - Active bug bounty hunter — HackerOne · Intigriti · YesWeHack
 
 `Python` `FastAPI` `LangChain` `Node.js` `TypeScript` `Next.js` `Docker` `TON` `Solana` `EVM`
@@ -250,17 +250,22 @@ Apache, Nginx, and IIS security auditor with **13 parallel scan phases** and rea
 
 ---
 
-**📚 Acadelia — AI-Powered Learning Platform**
+**📚 Acadelia — AI-Powered Learning Platform** &nbsp;·&nbsp; `Demo live`
 
-Ambitious educational platform with RAG, multi-agent systems, and multimodal processing.
+> AI Educational Platform
 
-- **40+ Specialized Agents** by subject area
-- **Supabase RAG**: pgvector + hybrid search
-- **4 Chat Modes**: PDF, Audio/Video, Mathematical, Theoretical
-- **8-Layer Security**: Helmet, CORS, CSRF, JWT, Rate Limiting, ClamAV, RBAC, Monitoring
-- **Multimodal**: PDF processing, Whisper (audio), GPT-4o Vision
+Multi-agent educational platform with full RAG pipeline, multimodal processing, and 40+ specialized agents across 4 disciplines.
 
-[![GitHub](https://img.shields.io/badge/acadelia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodhnin/acadelia)
+- **40+ Specialized Agents** across Engineering, Medicine, Economics, Psychology
+- **Supabase RAG**: pgvector + hybrid BM25+vector search
+- **4 Chat Modes**: PDF/OCR, Audio/Video (Whisper), Mathematical (WolframAlpha), Theoretical
+- **8-Layer Security**: JWT, CSRF, ClamAV, Helmet, Rate Limiting, RBAC
+- **Multimodal**: PDF processing, Whisper (audio/video), Mistral OCR, GPT-4o Vision
+
+The live demo at [acadelia.rodhnin.com](https://acadelia.rodhnin.com) is not the original codebase — it's a production-ready adaptation built on top of it, with a substantially redesigned internal architecture. TypeScript backend, HTMX frontend, optimized for reliability and public access.
+
+[![Demo](https://img.shields.io/badge/Demo-acadelia.rodhnin.com-582f0e?style=for-the-badge&logo=googlechrome&logoColor=f0efe7)](https://acadelia.rodhnin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-acadelia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodhnin/acadelia)
 
 ---
 
