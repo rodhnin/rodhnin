@@ -32,16 +32,15 @@
 
 **I build things. Security tools. AI systems. Web3 infrastructure. Sometimes all three at once.**
 
-7+ years of self-taught engineering — no degree, no shortcuts. Based in Galicia, Spain. Originally from Venezuela.
-
 My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain**:
 
+- **[Kotoba](https://github.com/kotoba-companion)** · **[kotoba.rodhnin.com ↗](https://kotoba.rodhnin.com)** — Open-source AI companion: Live2D avatar, real-time voice, and a self-hosted agent. MIT
 - **Argos Suite** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
 - **[CERBERUS](https://cerberus.rodhnin.com)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
 - **[Acadelia](https://github.com/rodhnin/acadelia)** · **[Demo ↗](https://acadelia.rodhnin.com)** — Educational platform powered by 40+ AI agents and RAG with pgvector
 - Active bug bounty hunter — HackerOne · Intigriti · YesWeHack
 
-`Python` `FastAPI` `LangChain` `Node.js` `TypeScript` `Next.js` `Docker` `TON` `Solana` `EVM`
+`Python` `Go` `FastAPI` `LangChain` `Node.js` `TypeScript` `Next.js` `Docker` `TON` `Solana` `EVM`
 
 ---
 
@@ -54,6 +53,7 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 ![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-11.0+-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-17+-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-ANSI-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -74,6 +74,7 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic-Claude-000000?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Realtime%20Voice-000000?style=flat-square)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 </details>
@@ -86,6 +87,8 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 ![React](https://img.shields.io/badge/React-18+-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3+-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-r170+-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-WebGL-000000?style=flat-square)
+![Live2D](https://img.shields.io/badge/Live2D-Cubism%204-000000?style=flat-square)
 
 </details>
 
@@ -144,6 +147,44 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 ---
 
 ## 🚀 Featured Projects
+
+**💬 Kotoba — AI Companion Framework** &nbsp;·&nbsp; `v1 · MIT`
+
+> Open Source AI Companion
+
+An AI companion you talk to out loud. A **Live2D avatar** that lip-syncs and shifts expression with emotion, **two-way real-time voice**, and a full **agent** underneath that runs on your own machine — self-hosted, on your own keys.
+
+<table>
+<tr>
+<td width="50%">
+
+**What it does**
+
+- Live2D Cubism 4 avatar with lip-sync and emotional expressions
+- Two-way real-time voice (ElevenLabs + WebRTC)
+- Agent with web search, sandboxed code and shell execution, file management
+- Memory that persists across sessions (SQLite FTS5)
+
+</td>
+<td width="50%">
+
+**How it runs**
+
+- ✅ MIT licensed, fully open source
+- ✅ Self-hosted — your machine, your API keys
+- ✅ Provider-agnostic LLM (OpenAI, Grok...)
+- ✅ Docker + Server-Sent Events
+
+</td>
+</tr>
+</table>
+
+`Next.js 16` `React 19` `TypeScript` `PixiJS` `Live2D Cubism 4` `FastAPI` `ElevenLabs` `SQLite FTS5` `Docker`
+
+[![Website](https://img.shields.io/badge/Website-kotoba.rodhnin.com-FF5A3C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kotoba.rodhnin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kotoba--companion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotoba-companion)
+
+---
 
 **🐺 CERBERUS — Crypto Guard Bot** &nbsp;·&nbsp; `Live in production`
 
@@ -288,6 +329,7 @@ Focus areas: Web app vulnerabilities, Web3 smart contracts, API security
 
 **Building**
 
+- 💬 Kotoba — avatar, voice and agent
 - 🐺 CERBERUS — expanding chain coverage
 - 🔐 Argos Suite — new attack vectors
 - ⚡ Available for security consulting & freelance
@@ -307,6 +349,7 @@ Focus areas: Web app vulnerabilities, Web3 smart contracts, API security
 | 🌐 **Portfolio** | [rodhnin.com](https://rodhnin.com) — AI agent live               |
 | 💼 **LinkedIn**  | [linkedin.com/in/rodhnin](https://linkedin.com/in/rodhnin)       |
 | 🐙 **GitHub**    | [@rodhnin](https://github.com/rodhnin)                           |
+| 💬 **Kotoba**    | [kotoba.rodhnin.com](https://kotoba.rodhnin.com)                 |
 | 🐺 **CERBERUS**  | [cerberus.rodhnin.com](https://cerberus.rodhnin.com)             |
 | 𝕏 **X**          | [@rodhnin](https://x.com/rodhnin)                                |
 
