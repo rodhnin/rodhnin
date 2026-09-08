@@ -34,7 +34,7 @@
 
 My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain**:
 
-- **[Kotoba](https://github.com/kotoba-companion)** · **[kotoba.rodhnin.com ↗](https://kotoba.rodhnin.com)** — Open-source AI companion: Live2D avatar, real-time voice, and a self-hosted agent. MIT
+- **[Kotoba](https://github.com/rodhnin/kotoba-companion)** · **[kotoba.rodhnin.com ↗](https://kotoba.rodhnin.com)** — Open-source AI companion: Live2D avatar, real-time voice, and a self-hosted agent. MIT
 - **Argos Suite** — 4 open-source security tools (WordPress, SQLi, network & server auditing) with CVE correlation, OWASP mapping, and AI-powered analysis
 - **[CERBERUS](https://cerberus.rodhnin.com)** — Live Web3 SaaS. Detects rug pulls across TON, Solana, and 10 EVM chains. Wallet tracking and liquidity monitoring
 - **[Acadelia](https://github.com/rodhnin/acadelia)** · **[Demo ↗](https://acadelia.rodhnin.com)** — Educational platform powered by 40+ AI agents and RAG with pgvector
@@ -182,7 +182,7 @@ An AI companion you talk to out loud. A **Live2D avatar** that lip-syncs and shi
 `Next.js 16` `React 19` `TypeScript` `PixiJS` `Live2D Cubism 4` `FastAPI` `ElevenLabs` `SQLite FTS5` `Docker`
 
 [![Website](https://img.shields.io/badge/Website-kotoba.rodhnin.com-FF5A3C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kotoba.rodhnin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kotoba--companion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotoba-companion)
+[![GitHub](https://img.shields.io/badge/GitHub-kotoba--companion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodhnin/kotoba-companion)
 
 ---
 
