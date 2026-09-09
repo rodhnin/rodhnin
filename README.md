@@ -148,7 +148,7 @@ My focus sits at the intersection of **cybersecurity**, **AI**, and **blockchain
 
 ## 🚀 Featured Projects
 
-**💬 Kotoba — AI Companion Framework** &nbsp;·&nbsp; `v1 · MIT`
+**💬 Kotoba — AI Companion Framework** &nbsp;·&nbsp; `v0.10.0 · MIT`
 
 > Open Source AI Companion
 
